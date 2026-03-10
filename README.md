@@ -1,15 +1,15 @@
 ## Full Stack Developer | Python & MERN Specialist | Aerospace Experience
 
-[cite_start]Desarrollador Full Stack con una sólida base en **Python** y formación avanzada en el **stack MERN**[cite: 6]. [cite_start]Aporto la precisión y el rigor de más de 3 años en el **sector aeroespacial (PLD Space)**, donde gestioné entornos críticos y de alta ingeniería[cite: 7, 19, 21]. Mi enfoque combina la capacidad analítica con la creación de soluciones digitales escalables y eficientes.
+Desarrollador Full Stack con una sólida base en **Python** y formación avanzada en el **stack MERN**[cite: 6]. [cite_start]Aporto la precisión y el rigor de más de 3 años en el **sector aeroespacial (PLD Space)**, donde gestioné entornos críticos y de alta ingeniería[cite: 7, 19, 21]. Mi enfoque combina la capacidad analítica con la creación de soluciones digitales escalables y eficientes.
 
 ---
 
 ### 🚀 Sobre mí
 
-- [cite_start]🎓 **Formación:** Máster en Desarrollo Full-Stack por la **Universidad Isabel I** (60 ECTS)[cite: 9].
-- [cite_start]🛸 **Background:** Experto en Logística y Operaciones en el sector del transporte durante 7 años y aeroespacial durante 3 años y 7 meses[cite: 19, 23].
-- [cite_start]🧠 **Soft Skills:** Formado en liderazgo, gestión de equipos y pensamiento estratégico por **Harvard Business Impact**[cite: 13, 17].
-- [cite_start]🌍 **Idiomas:** Español/Valenciano (Nativo) e Inglés B2[cite: 31, 32].
+- 🎓 **Formación:** Máster en Desarrollo Full-Stack por la **Universidad Isabel I** (60 ECTS)[cite: 9].
+- 🛸 **Background:** Experto en Logística y Operaciones en el sector del transporte durante 7 años y aeroespacial durante 3 años y 7 meses[cite: 19, 23].
+- 🧠 **Soft Skills:** Formado en liderazgo, gestión de equipos y pensamiento estratégico por **Harvard Business Impact**[cite: 13, 17].
+- 🌍 **Idiomas:** Español/Valenciano (Nativo) e Inglés B2[cite: 31, 32].
 
 ---
 
