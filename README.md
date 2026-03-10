@@ -37,16 +37,9 @@
 ![Unreal Engine](https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
 
----
-
-### 📊 Mis Estadísticas de GitHub
-
-| Actividad | Lenguajes más usados |
-| :---: | :---: |
-| ![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true) | ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true) |
 
 ---
 
 ### 🤝 Conectemos
-[![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/juli%C3%A1n-jos%C3%A9-l%C3%A1zaro-garc%C3%ADa-66a867225/]))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juli%C3%A1n-jos%C3%A9-l%C3%A1zaro-garc%C3%ADa-66a867225/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jazar96@hotmail.com)
